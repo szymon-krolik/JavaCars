@@ -1,0 +1,12 @@
+osobowy
+Tesla`Model S`12345`2015
+osobowy
+Fiat`Punto`200000`2006
+ciezarowy
+Mercedes-Benz`Axor 2528`800000`2005
+ciezarowy
+Volvo`FH500`280730`2015
+motocykl
+Yamaha`Midnight Star`40000`2008
+motocykl
+BMW`G`1`2019
